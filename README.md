@@ -1,0 +1,6 @@
+1. [Práctica 1](./practica_1/README.md) – (pendiente)
+2. [Práctica 2](./practica_2/README.md) – (pendiente)
+3. [Práctica 3](./practica_3/README.md) – (pendiente)
+4. [Práctica 4](./practica_4/README.md) – (pendiente)
+5. [Práctica 5](./practica_5/README.md) – (pendiente)
+6. [Práctica 6](./practica_6/README.md) – (pendiente)
