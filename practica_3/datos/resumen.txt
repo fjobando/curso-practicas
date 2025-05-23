@@ -1,0 +1,2 @@
+Laboratorio de Python
+son 25 ejecicios de basicos de python
